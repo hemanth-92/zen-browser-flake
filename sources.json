@@ -1,10 +1,10 @@
 {
   "beta": {
     "x86_64-linux": {
-      "version": "1.8.1b",
-      "sha1": "59e8c120e20f21a2f65e470b77dc0626b732b2b9",
-      "url": "https://github.com/zen-browser/desktop/releases/download/1.8.1b/zen.linux-x86_64.tar.xz",
-      "sha256": "sha256-cljz9+RDdKdScR0I06jTSusd+1AZzVEDMDbcc7HGorg="
+      "version": "1.7.6b",
+      "sha1": "06a03cd4ca480588f0732e2a84dd9877c8050f2a",
+      "url": "https://github.com/zen-browser/desktop/releases/download/1.7.6b/zen.linux-x86_64.tar.xz",
+      "sha256": "sha256-qVrwjQ147cRqDMFHz6eS6K/qAqQlmMRORHEYGRSwZqc="
     },
     "aarch64-linux": {
       "version": "1.8.1b",
